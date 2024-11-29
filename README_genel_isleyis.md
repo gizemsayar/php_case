@@ -1,4 +1,4 @@
-uygulama C:\wamp64\www\case dosyası içerisinde yer alan login.html sayfası ile başlamaktadır.
+uygulama case dosyası içerisinde yer alan login.html sayfası ile başlamaktadır.
 url : http://localhost/case/login.html
 
  giriş kısmında login ve dpapi ve conf_inc sayfaları özellikle oluşturdum.
